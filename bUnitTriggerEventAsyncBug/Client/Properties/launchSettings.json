@@ -16,7 +16,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "BUnitClickBug": {
+    "bUnitTriggerEventAsyncBug": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "launchBrowser": true,
